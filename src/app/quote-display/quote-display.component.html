@@ -1,6 +1,6 @@
 <div *ngFor="let quote of quotes;let i='index'">
     <h2>{{quote.name}}</h2>
-    <h3 appHighlight  ><i>"{{quote.description}}"</i></h3>
+    <h3 appHighlight><i>"{{quote.description}}"</i></h3>
 
     <p>~{{quote.author}}~</p>
     <button class="btn btn-primary" (click)="upVote(i)" id="but">Upvote</button>
@@ -9,8 +9,4 @@
     <p>{{quote.downvotes}}</p>
     <p class="time">{{quote.displayTime|displayTime}} Minutes Ago.</p>
     <button (click) = 'quoteDelete(i)' class="btn btn-block" id="del" style="color: whitesmoke">Delete </button>
-
 </div>
-
-
-<!--<p *ngIf='goals.length > 5'>You have too many goals</p>-->
