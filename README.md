@@ -29,7 +29,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 *Once opened,Enter your name,Quote and Author then click Submit to upload.
 
 ## License
-MIT License, Copyright(c) 2018 Sigilai.
+MIT License, Copyright(c) 2018 Sigilai...
 
 
 ## Further help
