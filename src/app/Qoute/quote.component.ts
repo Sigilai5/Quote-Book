@@ -9,7 +9,7 @@ import {Quote} from '../quote';
 export class QuoteComponent implements OnInit {
 
   quotes = [
-      new Quote(1, 'Brian Sigilai', 'We live in the future so our present is our past.', 'Kanye West', 0, 0, new Date()),
+      new Quote(1, 'Brian Sigilai', 'We live in the future so our present is the past.', 'Kanye West', 0, 0, new Date()),
 
   ];
 
