@@ -24,8 +24,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## How to install
-*Open the project in terminal
-*Run the local server using `ng serve`
+*Open the project in terminal.
+*Run the local server using `ng serve`.
 *Once opened,Enter your name,Quote and Author then click Submit to upload.
 
 ## License
