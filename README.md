@@ -31,7 +31,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 *Your inputs will appear on the right side of the screen.
 
 ## License
+<<<<<<< HEAD
 MIT License, Copyright(c) 2018 Sigilai.
+=======
+MIT License, Copyright(c) 2018 Sigilai......
+>>>>>>> parent of c1dd692... Update README.md
 
 
 ## Further help

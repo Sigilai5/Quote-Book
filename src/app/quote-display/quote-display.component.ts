@@ -12,9 +12,8 @@ export class QuoteDisplayComponent implements OnInit {
 
     @Input() quotes: Quote[];
     quoteDelete(ind) {
-        this.quotes.splice(ind,1);
+        this.quotes.splice(ind, 1);
     }
-
 
     upVote(id) {
         this.quotes[id].upvote();
