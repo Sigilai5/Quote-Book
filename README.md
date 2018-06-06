@@ -1,24 +1,43 @@
-# Github Search
+# Quotes
+Created By `Brian Sigilai` on 27th May 2018
 
-## Github search is a website that allows users to search for a GitHub username.
-#### By **Brian K Sigilai** created on, 1.06.2018
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
-## Description
-### This website allows users to search for a GitHub username and the repositories that belong to a perticular user, see some basic information of that user eg number of followers and number of repositories.
+## Development server
 
-## Technologies Used
-+ Html
-+ Css
-+ Typescript
-+ Angular
-+ Git
-+ Bootstrap v4
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files..
 
-## known bugs
-#### No known bugs
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## How to Use
+ *Open the browser.
+ 
+*Once opened,Enter your name,Quote and Author then click Submit to upload.
+
+*Your inputs will appear on the right side of the screen.
+
+## License
+<<<<<<< HEAD
+MIT License, Copyright(c) 2018 Sigilai.
+=======
+MIT License, Copyright(c) 2018 Sigilai......
+>>>>>>> parent of c1dd692... Update README.md
+
 
 ## Further help
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Licence
-MIT (c) 2017 [Sigilai Brian](https://sigilai5.github.io/Github-Search)
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
